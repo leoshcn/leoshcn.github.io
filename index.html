@@ -1,9 +1,185 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html>
+<head>
+<title>Bentley软件学习心得</title>
+<style type="text/css">
+	#headbar {
+		background-color: #34302E;
+		height:100px;
+		margin:0!;
+	}
+
+/* 去除页边留白 */
+	body,html {
+		margin: 0;
+		padding: 0;
+		height:100%;
+	}
+
+	#container {
+		min-height: 100%;
+		position:relative;
+	}
+
+	#content {
+
+		padding-bottom: 60px;
+		
+	}
+
+	.entry {
+		font-family: "Helvetica Neue", Helvetica, Verdana, Tahoma, Arial, sans-serif;
+		width: 800px;
+		margin:0px auto;
+		padding: 200px;
+	}
+
+
+	#footer {
+		position: absolute;
+		bottom: 0;
+		padding: 10px 0;
+		height:60px;
+		background: #E8EBEF;
+		width: 100%;
+		
+
+	}
+
+	#beian {
+		width:200px;
+		height:20px;
+		float:right;
+		text-align: right;
+		vertical-align: bottom;
+		margin:20px 10px;
+	}
+
+.entry p a:link, .entry p a:visited {
+		text-decoration: none;
+		color:#8A4124;
+	}
+
+.entry p a:hover, .entry p a:active {
+		text-decoration: none;
+		color: #FFF;
+		background-color:#8A4124;
+	}	
+
+	#beian a:link, #beian a:visited, #beian a:active {
+		font-size: 12px;
+		color:#9E9E9E;
+	}
+
+#head-container {
+	width:800px;
+	margin:0 auto;
+}
+
+.boxeight {
+	width: 800px;
+	margin: 0 auto;
+}
+
+#headerlogo {
+	width:80px;
+	hieght:80px;
+	float:left;
+	margin-top:20px;
+}
+
+.head-menu {
+	height:20px;
+	margin-top:50px;
+	width:300px;
+	padding: 0 10px;
+	float: right;
+}
+
+
+.head-menu a:link, .head-menu a:visited {
+	color:#9E9E9E;
+	text-decoration:none;
+}
+
+.head-menu a:hover {
+	color:#FFF;
+}
+
+.head-menu ul {
+	list-style:none;
+
+}
+
+.head-menu li{
+	float:left;
+	padding-left:20px;
+}
+
+
+</style>
+
+
+
+
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<p>I have no idea what I can do with this tool and web service </p>
-<p>可以显示中文吗?</p>
+
+<div id="container">
+	<div id="content">
+		<div id="headbar">
+			<div id="head-container">
+				<div id="headerlogo">
+					<img src="cflogo.png">
+				</div>
+				<div class="head-menu Source-Han-Light">
+					<ul>
+						<li><a href="http://www.bentley.com">官网</a></li>
+						<li><a href="http://www.bentley.com">联系我们</a></li>
+						<li><a href="http://leoblog.u.qiniudn.com/ContactInfo.png">微信</a></li>
+						<li><a href="http://www.bentley.com">留言</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+	
+
+		<div class="entry " align="center">
+			<h1 class="SansGBW3">Bentley 软件学习心得 </h1>
+			<p class="SansGBW3">本站正在建设中，如需获得最新的咨询，请前往<a href="http://communities.bentley.com/communities/other_communities/chinafirst/"	> Bentley 官方中文社区</a></p>
+			<p class="SansGBW3">如需联系，请邮件至 i#lixyun.com 或扫描下方二维码获取站长名片</p>
+			<p><img src="http://leoblog.u.qiniudn.com/ContactInfo.png" width="150px"; /></p>
+		</div>
+		
+	</div>
+
+	<div id="footer">
+		<div class="boxeight">
+			<div id="beian" class="Source-Han-Light">
+				<a href="http://www.miitbeian.gov.cn/">沪ICP备11007370号-2</a>
+			</div>
+		</div>
+	</div>
+
+</div>
+
 </body>
+
+
+
+
+<!-- 在线字体 Start-->
+<script type="text/javascript" src="http://www.youziku.com/UserDownFile/jquery.min.js"></script> <script type="text/javascript" src="http://www.youziku.com/UserDownFile/jquery.md5.js"></script> <script type="text/javascript"> function youziku46865() { var resultStr = $(".Source-Han-Light").text(); var md5 = ""; resultStr = Trim(resultStr); resultStr = SelectWord(resultStr); md5 = $.md5("7eed0b5e25f14ed5a781338a4fb8cdf4"+"Source-Han-Light" + resultStr); $.getJSON("http://www.youziku.com/webfont/CSSPOST?jsoncallback=?", { "id": md5, "guid": "7eed0b5e25f14ed5a781338a4fb8cdf4", "type": "5" }, function (json) { if (json.result == 0) {/*alert("需要生成");*/ $.post("http://www.youziku.com/webfont/PostCorsCreateFont", { "name": "Source-Han-Light", "gid": "7eed0b5e25f14ed5a781338a4fb8cdf4", "type": "5", "text": resultStr }, function (json) { if (json == "0") { /*alert("参数不对");*/ } else if (json == "2") {/*alert("超过每日生成字体数的上限");*/ } else if (json == "3") { /*alert("当前正在生成请稍后");*/ } else {/*alert("正在生成");*/ } }); } else {/*alert("下载css文件");*/ loadExtentFile("http://www.youziku.com/webfont/css?id=" + md5 + "&guid=" + "7eed0b5e25f14ed5a781338a4fb8cdf4" + "&type=5"); } }); } (function youziku() { if (window.location.href.toString().substring(0, 7) == "file://") { alert("你当前是通过双击打开html文件，进行本地测试的，这样看不到字体效果，一定要通过本地建立的虚拟网站或发布到外网进行测试。详见有字库的使用说明。"); }else{ youziku46865(); } })() 
+</script>
+
+<!-- 在线字体 end-->
+
+<!-- 冬青黑体 -->
+
+<script type="text/javascript" src="http://www.youziku.com/UserDownFile/jquery.min.js"></script> <script type="text/javascript" src="http://www.youziku.com/UserDownFile/jquery.md5.js"></script> <script type="text/javascript"> function youziku46615() { var resultStr = $(".SansGBW3").text(); var md5 = ""; resultStr = Trim(resultStr); resultStr = SelectWord(resultStr); md5 = $.md5("a825918b87b5429cbe169008a8793e5d"+"SansGBW3" + resultStr); $.getJSON("http://www.youziku.com/webfont/CSSPOST?jsoncallback=?", { "id": md5, "guid": "a825918b87b5429cbe169008a8793e5d", "type": "5" }, function (json) { if (json.result == 0) {/*alert("需要生成");*/ $.post("http://www.youziku.com/webfont/PostCorsCreateFont", { "name": "SansGBW3", "gid": "a825918b87b5429cbe169008a8793e5d", "type": "5", "text": resultStr }, function (json) { if (json == "0") { /*alert("参数不对");*/ } else if (json == "2") {/*alert("超过每日生成字体数的上限");*/ } else if (json == "3") { /*alert("当前正在生成请稍后");*/ } else {/*alert("正在生成");*/ } }); } else {/*alert("下载css文件");*/ loadExtentFile("http://www.youziku.com/webfont/css?id=" + md5 + "&guid=" + "a825918b87b5429cbe169008a8793e5d" + "&type=5"); } }); } (function youziku() { if (window.location.href.toString().substring(0, 7) == "file://") { alert("你当前是通过双击打开html文件，进行本地测试的，这样看不到字体效果，一定要通过本地建立的虚拟网站或发布到外网进行测试。详见有字库的使用说明。"); }else{ youziku46615(); } })() </script>
+
+<!-- 完成调用 冬青黑体 -->
+
 </html>
