@@ -6,18 +6,26 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
-  <table style="boder:0px;">
-
+  <ul class="post-list">
     {% for post in site.posts %}
+<<<<<<< HEAD
       <tr class="post-list">
       
         <td class="post-meta" width=120px>{{ post.date | date: "%Y-%m-%d" }}</td>
+=======
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+>>>>>>> parent of cad389f... change layout to table
 
-                <td> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
-      </tr>
+      </li>
     {% endfor %}
+<<<<<<< HEAD
   </table>
+=======
+  </ul>
+>>>>>>> parent of cad389f... change layout to table
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
