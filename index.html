@@ -11,13 +11,13 @@ layout: default
     {% for post in site.posts %}
       <tr class="post-list">
       
-        <td class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</td>
+        <td class="post-meta" width=150px>{{ post.date | date: "%b %-d, %Y" }}</td>
 
                 <td> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
 
       </tr>
     {% endfor %}
-  </table>>
+  </table>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
