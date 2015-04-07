@@ -13,6 +13,7 @@ A：先看看它是多么的有益；
 ![NatureMadeUltraMan-pic3](http://leoblog.u.qiniudn.com/VitaminTablet3.png)  
 
 B: 想想得病的不爽   
+
 1. 头晕犯困，昏昏欲睡，睡又睡不好
 2. 说话听起来像鬼，没人想和你聊天
 2. 呼吸不畅，每隔5分钟就要和自己的一部分体液 say goodbye
