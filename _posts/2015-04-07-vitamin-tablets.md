@@ -6,7 +6,8 @@ category: Life
 ---
 去台湾前又感冒了，是2周前参加Autodesk 同事聚会时候被鸡毛传染的，这次死去活来的感冒坚定了我对抗抵抗力衰退的决心。
 第一个举措是开始吃保健品，目前找到的这个是 Nature Made 的 Ultra Man，本文也是为了坚持吃它所写的自勉文 - 当我的思绪又发生漂移，认为吃不吃无所谓的时候，请   
-###A：先看看它是多么的有益；
+
+###A：先看看它是多么的有益
 
 ![NatureMadeUltraMan-pic1](http://leoblog.u.qiniudn.com/VitaminTablet1.png)  
 ![NatureMadeUltraMan-pic2](http://leoblog.u.qiniudn.com/VitaminTablet2.png)  
