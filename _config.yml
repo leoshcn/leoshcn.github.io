@@ -2,7 +2,7 @@
 title: 云叔扯淡
 email: i@lixyun.com
 description: > # this means to ignore newlines until "baseurl:"
- This is a blog site for a helpless mid-age Chinese DASHU. All posts are not supposed to be shared and read by anyone except himself. Anyway, have fun!
+ This is a blog site for a helpless mid-age Chinese DASHU. All posts are not supposed to be shared and read by anyone except himself. <a href="http://www.zhihu.com/people/leoshcn">My page</a> on Zhihu. Anyway, have fun!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: leoshcn
