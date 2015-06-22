@@ -2,11 +2,8 @@
 layout: post
 title: 基于BIM的构件搜索利器 - Ideate Explorer
 date: 2010-08-22 23:18
-author: admin
-comments: true
-categories: [BIM 笔记, Ideate Explorer, revit, 建筑信息化-BIM, 软件]
 ---
-<a href="http://www.ideateexplorer.com/index.php">Ideate Explorer</a> 是一个基于 Revit 模型的构件检索/管理工具。用它，可以非常高效的 搜索，过滤和统计 Revit 模型中的构件，并进行 “选择、导出” 等操作 。
+Ideate Explorer 是一个基于 Revit 模型的构件检索/管理工具。用它，可以非常高效的 搜索，过滤和统计 Revit 模型中的构件，并进行 “选择、导出” 等操作 。
 
 <a href="http://www.leolx.com/wp-content/uploads/2010/08/Ideate_Explorer.png"><img class="alignnone size-full wp-image-827" title="Ideate_Explorer" src="http://www.leolx.com/wp-content/uploads/2010/08/Ideate_Explorer.png" alt="" width="364" height="90" /></a>
 
