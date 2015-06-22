@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 基于BIM的构件搜索利器: Ideate Explorer
+title: 基于BIM的构件搜索利器 - Ideate Explorer
 date: 2010-08-22 23:18
 author: admin
 comments: true
