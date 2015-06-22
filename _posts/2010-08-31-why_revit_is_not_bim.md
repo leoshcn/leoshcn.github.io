@@ -1,10 +1,8 @@
 ---
 layout: post
-title: [译文] 为什么 Revit 不是 BIM!
+title: 为什么 Revit 不是 BIM! (译文)
 date: 2010-08-31 22:00
-author: admin
-comments: true
-categories: [BIM 笔记, revit, 建筑信息化-BIM]
+
 ---
 如果你认为Revit 就是 BIM，那你需要再好好想想了。
 
