@@ -7,18 +7,17 @@ comments: true
 categories: [friends, GFW, politics, 观点]
 ---
 仲尼兄，亚美利坚人士，与我因其娶走的中国媳妇而结识，最近来信询问有关某国互联网访问限制情况，经仲尼本人同意，把部分内容转贴在这里，希望给其他和他有同样困惑的“互联网霸权主义”国家的人士有所参考：
-<div>
-<blockquote>Xiang,
 
-How's it going? Heard about all the drama with Google trying to go "uncensored" and maybe getting kicked out of China.
+>Xiang,
+>
+>How's it going? Heard about all the drama with Google trying to go "uncensored" and maybe getting kicked out of China.
+>Have you seen any problems so far? When I was there, I was able to get to www.google.com. Can you get to that site now, or can you only use www.google.cn?
+>Very curious,  
+>
+> John
 
-Have you seen any problems so far? When I was there, I was able to get to www.google.com. Can you get to that site now, or can you only use www.google.cn?
 
-Very curious,
-
-John</blockquote>
---------x-----------------------------------------------
-<div class="eng">Hi John,
+Hi John,
 Great to hear from you, I  remember you very well.
 The google event triggered a wide discussion in  China. Almost all independent Chinese bloggers posted comments on it, expressing  their anger/ criticize to the government and support to google. Google is highly  recognized among young people in China. They trust it, believe in its “don’t be  evil” culture and, most of all, are very satisfied with its services, even if  the google.cn had been providing censored search results. Today, they believe  the quitting is unavoidable and are getting ready to say farewell to google,  some are backing up their personal contents stored in google docs, gmails and  other places. Some said: “Google, see you in the other side of the great fire  wall”, “Google, go as you will and come back when freedom lights the country” –  In a word, most people I know believe that Google has been doing something  righteous and is a great company with social responsibilty.
 
@@ -36,29 +35,27 @@ I can feel the deep fear in the Chinese  government, they want to control the si
 I hope I stated everything you wanted to know  clear enough. I appreciate that you brought this up so that we had this chance  to discuss it. Let me know if you have any more questions or ideas.
 Cheers.
 
-</div>
-<div>Xiang</div>
-<div>--------x-----------------------------------------------</div>
-<div>
-<blockquote>
-<div class="eng">Great summary of everything. Good to  know that these is some freedom to discuss this online. I have had many thoughts  on this topic. I think its so bizzarre for a government in the modern age to  believe that supressing something will make it disappear. Quite the  opposite!
 
-Your response to my question was puzzling. You said that  facebook is completely inaccessible, but you obviously have access to it. Do you  proxy to get access, or did you mean to write that facebook was inaccessible for  a long time, until Google agreed to censor itself and was given permission to  operate in China. Since they got permission, now facebook, twitter, and youtube  are all accessible. Is that right?
+Xiang
 
-My question was primarily about access  to google.com vs access to google.cn and what "censoring" really means. When I  was there, I took time to do some web browsing, and I found that I could access  google.com as well as google.cn. I thought it was strange that China would let  google.com be accessed from within China if they are worried about censoring. I  mean, from google.com, I searched for "Tiananmen" and several photos of soldiers  attacking students were returned, and I was able to visit those websites and see  pictures that the Chinese government didn't want me seeing. Then, I searched for  天安门 and only pictures of government officials and sunny days were returned. I  got the impression from this that the "censoring" is more just about censoring  the search results of searches done in Chinese. Is that right? Or was there some  crack in the filter that the Chinese government doesn't know about?
 
-That  was my main curiosity. I figure the Chinese government has got to loosen up  eventually, and I am hoping that the one party system will give way and you guys  will be able to choose your leaders from amongst citizens. I know the US doesn't  do that exactly either, but we claim that we do, and that's something. And  really, ordinary people can become national leaders... but usually only if they  impress/please/obey people with lots of money and power.
-
-Oh, one of the  thoughts I had on this issue was when I was trying to justify the censoring of  the search results. I started to wonder what exactly a search result is, and I  recalled that Google's algorithm is based on how popular a certain link is for  the search terms that you typed in, and it tracks that popularity with the  number of times people click on it, or link to it, or whatever. So, I realized  that if we're just counting the number of things, and if during the 1990's and  early 2000's there were 3 times as many internet users in America than there  were in China, then there would be a whole lot more links and clicks based on  America's opinion of what a good website is for a certain search term, and thus  when Google's algorithm returns something to a Chinese user, it would really  just be returning what most American's would want to see based on the search  terms. Ultimately, its the perfect way for a technologically advanced nation  (America) to infuse their culture into a nation that is starting to use a  similar technology (China). So, maybe filtering isn't so bad. However, what  should probably be done is China should force Google to use a new database for  searches done in China, and that database should only include clicks and links  done by Chinese citizens/computers.
-
+>Great summary of everything. Good to  know that these is some freedom to discuss this online. I have had many thoughts  on this topic. I think its so bizzarre for a government in the modern age to  believe that supressing something will make it disappear. Quite the  opposite!  
+>
+Your response to my question was puzzling. You said that  facebook is completely inaccessible, but you obviously have access to it. Do you  proxy to get access, or did you mean to write that facebook was inaccessible for  a long time, until Google agreed to censor itself and was given permission to  operate in China. Since they got permission, now facebook, twitter, and youtube  are all accessible. Is that right?  
+>
+My question was primarily about access  to google.com vs access to google.cn and what "censoring" really means. When I  was there, I took time to do some web browsing, and I found that I could access  google.com as well as google.cn. I thought it was strange that China would let  google.com be accessed from within China if they are worried about censoring. I  mean, from google.com, I searched for "Tiananmen" and several photos of soldiers  attacking students were returned, and I was able to visit those websites and see  pictures that the Chinese government didn't want me seeing. Then, I searched for  天安门 and only pictures of government officials and sunny days were returned. I  got the impression from this that the "censoring" is more just about censoring  the search results of searches done in Chinese. Is that right? Or was there some  crack in the filter that the Chinese government doesn't know about?  
+>
+That  was my main curiosity. I figure the Chinese government has got to loosen up  eventually, and I am hoping that the one party system will give way and you guys  will be able to choose your leaders from amongst citizens. I know the US doesn't  do that exactly either, but we claim that we do, and that's something. And  really, ordinary people can become national leaders... but usually only if they  impress/please/obey people with lots of money and power.  
+>
+Oh, one of the  thoughts I had on this issue was when I was trying to justify the censoring of  the search results. I started to wonder what exactly a search result is, and I  recalled that Google's algorithm is based on how popular a certain link is for  the search terms that you typed in, and it tracks that popularity with the  number of times people click on it, or link to it, or whatever. So, I realized  that if we're just counting the number of things, and if during the 1990's and  early 2000's there were 3 times as many internet users in America than there  were in China, then there would be a whole lot more links and clicks based on  America's opinion of what a good website is for a certain search term, and thus  when Google's algorithm returns something to a Chinese user, it would really  just be returning what most American's would want to see based on the search  terms. Ultimately, its the perfect way for a technologically advanced nation  (America) to infuse their culture into a nation that is starting to use a  similar technology (China). So, maybe filtering isn't so bad. However, what  should probably be done is China should force Google to use a new database for  searches done in China, and that database should only include clicks and links  done by Chinese citizens/computers.   
+>
 What do you think? I know its not  exactly this simple, but seems like this is a slightly different perspective,  and could be valid.
-
+>
 John
 
-</div></blockquote>
-</div>
-<div>--------x-----------------------------------------------</div>
-<div>Sorry for the late response, some personal stuff has kept me busy for the past  week.
+
+
+Sorry for the late response, some personal stuff has kept me busy for the past  week.
 
 I really like your questions and opinions, but before digging into  this, I’d like to start with solving your "puzzle".
 
@@ -73,6 +70,3 @@ For  the search algorithm, I do not agree that it should be an excuse of the  fi
 I am worried about the future of China,  because more people are starting to get freed on mind in a remarkable speed, but  the government no longer has effective ways to get them back to the age of  ignorance and blindness.
 
 Leo
-
-</div>
-</div>
