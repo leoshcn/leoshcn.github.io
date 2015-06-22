@@ -1,0 +1,15 @@
+---
+layout: post
+title: 关注
+date: 2007-05-31 23:04
+author: admin
+comments: true
+categories: [blog, 关注, 观点]
+---
+<img width="360" src="http://photo8.yupoo.com/20070531/230738_1788508030_vmqiyxim.jpg" height="456" />
+
+我们每个人都需要被爱的感觉，这正是此类生物可爱的地方。
+
+被爱，说到具体，其中一个行为就是被关注。而Blog，满足了这样一种需求。被朋友、被爱人，同事，甚至陌生人关注。
+
+为什么大行其道，这个因素应该是原因的组成之一。
