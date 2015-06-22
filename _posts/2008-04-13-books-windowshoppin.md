@@ -6,7 +6,7 @@ author: admin
 comments: true
 categories: [book, 理财, 豆瓣, 阅读越好玩]
 ---
-<img src="http://i13.photobucket.com/albums/a274/leoshcn/0881834001208062214leoshcn.jpg" alt="" />
+![new books and learnings](http://i13.photobucket.com/albums/a274/leoshcn/0881834001208062214leoshcn.jpg)
 下午在正大的大众书局消磨时间。看了几本乱七八糟的书。
 <a href="http://www.douban.com/subject/2115140/">《病由心生》</a>- 一本在美国畅销了几十年的书，起初翻看的目的是想帮妈妈寻找点希望，结果内容还挺实用，据作者的统计说居然有76%的疾病和心情有关。我联想起来为啥我小时候经常肚子疼结果一到医院排队排到我就自动不疼，一度因此感到迷惑和自卑，现在分析一下也许只是不想在家写作业....
 <a href="http://www.douban.com/subject/2977454/">《暖财安生》</a>+<a href="http://www.douban.com/subject/2003678/">《一生的理财计划》</a> - 其实我没啥财可理，但真再这样下去就完蛋了，毕竟实现财务自由是人生的一大要务。还算有所收获。有一个例子让我有点吃惊：AB同岁，A在22岁时候每年存2000元，到第六年存完之后就停止，B从28岁开始存，到62岁，35年间每年存2000，6年Vs35年，按照合理的复利计算存款利息，最后两者的存款几乎相等！！只是因为A的早！
