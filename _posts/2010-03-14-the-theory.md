@@ -2,9 +2,7 @@
 layout: post
 title: 半成品世界观
 date: 2010-03-14 23:19
-author: admin
-comments: true
-categories: [life, 世界观, 思考, 观点]
+
 ---
 好久没写什么了，其实最近还是发生了很多值得写的事情的。
 
@@ -34,6 +32,6 @@ categories: [life, 世界观, 思考, 观点]
 
 我相信周围和我一样闲的蛋疼的人不少，不如也分享一下你的想法吧。
 
-http://www.flickr.com/photos/leoshcn/4431491061/
+[![snow by Li Xiang, on Flickr](https://c1.staticflickr.com/5/4040/4431491061_5daec854cf.jpg)](https://www.flickr.com/photos/leoshcn/4431491061)
 
 后记: 回忆一下，写这篇文章的冲动大概多少和我最近看的读的有关，一个是<a href="http://www.douban.com/subject/4112874/">《盛世：中国，2013》</a>，一个是<a href="http://www.douban.com/subject/3011051/">Triangle</a>。
