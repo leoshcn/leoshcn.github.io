@@ -10,5 +10,8 @@ github_username:  leoshcn
 timezone: Hongkong
 permalink: /:year/:title.html
 
+paginate: 10
+paginate_path: "page/page:num/"
+
 # Build settings
 markdown: kramdown
