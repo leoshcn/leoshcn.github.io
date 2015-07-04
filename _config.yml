@@ -16,9 +16,9 @@ paginate_path: "blog/page:num/"
 markdown: kramdown
 
 #External service
-github_url: "https://github.com/leoshcn/"
+github_url: "https://github.com/leoshcn"
 twitter_url: "https://twitter.com/leoshcn"
 linkedin_url: "https://linkedin.com/in/leoshcn"
 feed_url: "http://www.lixyun.com/feed.xml"
-flickr_url:"https://www.flickr.com/photos/leoshcn/"
+flickr_url: "https://www.flickr.com/photos/leoshcn"
 
