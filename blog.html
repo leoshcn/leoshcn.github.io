@@ -10,7 +10,7 @@ permalink: /blog/
     {% for post in site.posts limit:10 %}
 
    <li>
-        <h1>   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </h1>
+        <h1 class="post-title-link">   <a  href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </h1>
           <div class=post-content>
                 {{ post.excerpt }}
             </div>
