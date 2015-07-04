@@ -9,6 +9,7 @@ author: Leo
 折腾了很长时间，最后还是在我自己的笔记本电脑上成功部署了 Jekyll.
 作为一个不会写代码的Geek，实属不易啊。
 赶紧记下来要点，否则重装电脑之后又完蛋了
+<!--more-->
 
 * 主要还是参考了Yanping 的这篇[视频教程](http://yanping.me/cn/blog/2013/08/11/github-pages-step-by-step-video/)
 * Windows 安装需要注意安装 Python - 别忘记重启电脑
