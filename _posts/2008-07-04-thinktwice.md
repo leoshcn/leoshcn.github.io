@@ -2,7 +2,6 @@
 layout: post
 title: Think twice
 date: 2008-07-04 03:36
-tags:freedom friends
 ---
 
 我可没离开过这，只是最近很多时间花在旅行上。  
