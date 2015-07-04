@@ -3,7 +3,7 @@ layout: page
 homepage: True
 permalink: /
 ---
-{: style="margin-top:.24em; margin-bottom: 0;"}
+{: style="margin-top:.27em; margin-bottom: 0;"}
 欢迎访问云叔的扯淡空间   
 云叔：81年生人，艺名 Leo，双子座，O型血，HBDI 测试 CA 型。  
 
@@ -11,7 +11,7 @@ permalink: /
 濒临放弃自己，一辈子做死胖子的中年人。爱好踢踢球，看看书，写写字，拍拍照。
 
 
-这是我2015年初用Jekyll 搭建的blog
+这是我2015年初用Jekyll 搭建的 [blog](/blog/)
 
 ### News
 
