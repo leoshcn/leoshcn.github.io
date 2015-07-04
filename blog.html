@@ -17,15 +17,14 @@ permalink: /blog/
 
 
                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
+          <div class=post-content>
+                {{ post.excerpt | markdownify }}
+            </div>
       </li>
     {% endfor %}
 
 
   </ul>
   
-  <!-- 分页链接 -->
-{% include pagination.html %}
-
 
 </div>
