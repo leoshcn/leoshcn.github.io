@@ -4,33 +4,16 @@ homepage: True
 permalink: /
 ---
 
-{: style="margin-top:0; margin-bottom: 0;"}
-I am a second-year masters student in the [InfoCloud][1] research group at
-[KAUST][2]. I am working with [Panos Kalnis][3] on broadcast scheduling in
-social networks. I previously worked with [Xiangliang Zhang][5] on Android
-malware classification using graphical models. I am broadly interested in
-social, economic, graph and game theory.
+欢迎访问云叔的扯淡空间   
+云叔：81年生人，艺名 Leo，双子座，O型血，HBDI 测试 CA 型。  
 
-I was previously a software engineer at [Yahoo!][6] where I worked in the
-[Timesense](/yahoo/) team. Before that, I was an undergraduate at
-[BITS - Pilani, Goa Campus][4].
+现居上海浦东，半途而废建筑师，心不在焉产品经理；  
+濒临放弃自己，一辈子做死胖子的中年人。爱好踢踢球，看看书，写写字，拍拍照。
+
+
+这是我2015年初用Jekyll 搭建的blog
 
 ### News
 
-   * *04.11.14*: [Top 100 (of 1720 teams)](http://www.ieee.org/membership_services/membership/students/competitions/xtreme/xtreme8ranking_overall.pdf) as LogisticAggression (w/ [Maruan Alshedivat](http://maruan.alshedivat.com)) in IEEEXtreme 8.0!
-   * *14.09.14*: Won best Mashery hack at
-   [PennApps X](http://2014f.pennapps.com/) for
-   [Snipbase](http://challengepost.com/software/snipbase)!
-   * *26.08.14*: Completed my [GSoC '14 project][7] with the [OSUOSL][6]!
-   * *25.07.14*: Selected for
-   [PennApps X Fall 2014](http://2014f.pennapps.com/)!
-   * *21.04.14*: Accepted to Google Summer of Code with the [Oregon State U][6]!
-   * *27.03.14*: Joined the [InfoCloud][1] research group at KAUST!
+   * *2015-07-04*: 今天踢球又进了几个
 
-[1]: http://cloud.kaust.edu.sa/
-[2]: http://www.kaust.edu.sa/
-[3]: http://www.panoskalnis.com/
-[4]: http://www.bits-pilani.ac.in/goa/
-[5]: https://www.lri.fr/~xlzhang/
-[6]: http://www.yahoo.com/
-[7]: https://www.google-melange.com/gsoc/project/details/google/gsoc2014/emaadmanzoor/5693417237512192
