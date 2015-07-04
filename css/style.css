@@ -3,3 +3,37 @@
    margin: 9em 0 3em 0;
 
 }
+
+.author-info {
+    font-size: 0.9em;
+    float: right;
+    text-align: right;
+    width: 165px;
+}
+
+
+ .nav {
+        margin: 0 auto 1em auto;
+    }
+
+ .nav a {
+        padding: 0.5em;
+    }
+	
+	
+.home-nav ul {
+    font-size: 1.2em;
+    list-style-type: none;
+    margin-top: 1em;
+    padding: 0;
+}
+
+.home-nav ul li {
+    margin-bottom: 0.5em;
+}
+
+.home-nav a {
+    color: #333;
+    text-decoration: none;
+}
+
