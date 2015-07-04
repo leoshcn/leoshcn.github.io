@@ -10,7 +10,7 @@ category: Life
 [旅程链接](http://breadtrip.com/trips/2388256711/)
 
 “有缘再来，有愿请来” 的 普陀山
-<!--more-->
+
 
 ![普济寺前的莲花池](http://pic.yupoo.com/leoshcn/Ekmc1eUe/medium.jpg)
 
