@@ -3,7 +3,7 @@ layout: page
 homepage: True
 permalink: /
 ---
-
+{: style="margin-top:.24em; margin-bottom: 0;"}
 欢迎访问云叔的扯淡空间   
 云叔：81年生人，艺名 Leo，双子座，O型血，HBDI 测试 CA 型。  
 
