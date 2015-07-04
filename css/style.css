@@ -5,6 +5,12 @@
 
 }
 
+.post {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 1.5em;
+    padding-bottom: 1em;
+}
+
 .post-meta {
     font-size: 0.9em;
     line-height: 1.5em;

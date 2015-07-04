@@ -6,22 +6,21 @@ permalink: /blog/
 
 <div class="home">
 
-  <ul class="post-list">
+  
     {% for post in site.posts limit:10 %}
-
-   <li>
+<div class="post">
+  
         <h1 class="post-title-link">   <a  href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </h1>
           <div class=post-content>
                 {{ post.excerpt }}
             </div>
-      </li>
+  
 	  
    {% include post-meta.html %}
-	  
+</div>	  
     {% endfor %}
 
 
-  </ul>
-  
+   
 
 </div>
