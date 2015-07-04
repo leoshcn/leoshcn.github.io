@@ -16,8 +16,8 @@ paginate_path: "blog/page:num/"
 markdown: kramdown
 
 #External service
-github_url: "https://github.com/emaadmanzoor"
-twitter_url: "https://twitter.com/emaadmanzoor"
-linkedin_url: "https://linkedin.com/in/emaadmanzoor"
+github_url: "https://github.com/leoshcn/"
+twitter_url: "https://twitter.com/leoshcn"
+linkedin_url: "https://linkedin.com/in/leoshcn"
 feed_url: "http://feeds.feedburner.com/eyeshalfclosed"
 
