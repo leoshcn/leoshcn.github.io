@@ -13,7 +13,7 @@ permalink: /
 
 常逛 [知乎](http://www.zhihu.com) 这是我在知乎的 [个人页面](http://www.zhihu.com/people/leoshcn)
 
-这是我2015年初用Jekyll 搭建的 [blog](/blog/)
+这是我2015年初用Jekyll 搭建的 [blog](/blog/) 目前共有博文 {{ site.posts | size }} 篇
 
 ### News
 
