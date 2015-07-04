@@ -20,6 +20,11 @@
         padding: 0.5em;
     }
 	
+.nav a {
+    padding-left: 1em;
+    text-decoration: none;
+}
+	
 	
 .home-nav ul {
     font-size: 1.2em;
