@@ -15,8 +15,9 @@ paginate_path: "page:num/"
 # Build settings
 markdown: kramdown
 
-github_url:"http://www.baidu.com"
-twitter_url:"http://www.baidu.com"
-linkedin_url:"http://www.baidu.com"
-feed_url:"http://www.baidu.com"
+#External service
+github_url: "https://github.com/emaadmanzoor"
+twitter_url: "https://twitter.com/emaadmanzoor"
+linkedin_url: "https://linkedin.com/in/emaadmanzoor"
+feed_url: "http://feeds.feedburner.com/eyeshalfclosed"
 
