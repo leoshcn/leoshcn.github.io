@@ -1,7 +1,7 @@
 .container {
 
    margin: 9em 0 3em 0;
-   border: 2px solid red;
+
 
 }
 
@@ -10,7 +10,7 @@
     float: right;
     text-align: right;
     width: 165px;
-	border: 2px solid green;
+
 }
 
 
