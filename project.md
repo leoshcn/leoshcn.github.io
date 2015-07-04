@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Project
 permalink: /project/
 ---
 ### 测试测试
