@@ -16,4 +16,10 @@ permalink: /
 ### News
 
    * *2015-07-04*: 今天踢球又进了几个
+   
+   <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Ftechcrunch.cn%2Ffeed%2F&chan=title&num=5&utf=y"  charset="UTF-8" type="text/javascript"></script>
+
+<noscript>
+<a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Ftechcrunch.cn%2Ffeed%2F&chan=title&num=5&utf=y&html=y">View RSS feed</a>
+</noscript>
 

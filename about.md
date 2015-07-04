@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 [![taking-a-bag-portrait](http://78rdoo.com1.z0.glb.clouddn.com/20150622_leo_portrait.jpg/400.png)](http://78rdoo.com1.z0.glb.clouddn.com/20150622_leo_portrait.jpg)
@@ -12,5 +12,3 @@ permalink: /about/
 
 
 这是我用Jekyll 搭建的blog
-
-[![20150622_leo_portrait by Li Xiang, on Flickr](https://c1.staticflickr.com/1/307/18863072259_12d8597d42_s.jpg)](https://www.flickr.com/photos/leoshcn/18863072259)
