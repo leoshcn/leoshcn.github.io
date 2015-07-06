@@ -7,7 +7,7 @@ permalink: /
 欢迎访问云叔的扯淡空间   
 云叔：81年生人，艺名 Leo，双子座，O型血，HBDI 测试 CA 型。  
 
-现居上海浦东，半途而废建筑师，目前主要关注建筑工程全生命周期信息化（BIM） 和 互联网产品  等领域
+现居上海浦东，半途而废建筑师，目前主要关注'建筑工程全生命周期信息化'（BIM） 和 相关互联网产品  等领域
 濒临放弃自己、下半辈子做一个死胖子的中年人  
 爱好踢踢球，看看书，写写字，拍拍照。
 
@@ -23,5 +23,3 @@ permalink: /
 ### 最新分享
  
 <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Ffeeds.pinboard.in%2Frss%2Fsecret%3Ab2a0f02dce1b20f646fd%2Fu%3Aleoshcn%2F&num=5&utf=y"  charset="UTF-8" type="text/javascript"></script>
-
-18376785
