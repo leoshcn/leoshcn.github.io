@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 结婚了
-date: 2009-05-16 22:44
-author: admin
-comments: true
-categories: [blog, life, 人生, 博客, 生活, 生活]
+date: 2009-05-16 22:44 +0800
+tags: blog life love
 ---
 2009 5 16 是一个好日子， 新的纪念日
 
