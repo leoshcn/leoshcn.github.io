@@ -67,8 +67,14 @@ margin: 0.25em 0 .5em 0 !important;
     }
 	
 .nav a {
-    padding-left: 1em;
+    padding-left: .5em;
     text-decoration: none;
+	color: #555;
+}
+
+.nav a: hover{
+    text-decoration: none;
+	color: #bc7564;
 }
 	
 	
