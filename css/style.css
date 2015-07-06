@@ -66,13 +66,12 @@ margin: 0.25em 0 .5em 0 !important;
         padding: 0.5em;
     }
 	
-.nav a {
-    padding-left: .5em;
+.nav a: link {
     text-decoration: none;
 	color: #555;
 }
 
-.nav a: hover{
+.nav a: hover {
     text-decoration: none;
 	color: #bc7564;
 }
