@@ -18,7 +18,7 @@ permalink: /
 ### News
 
 * *2015.7.6* 希望在主页添加一个更容易维护的分享日志的机制
-
+* *2015.6.30* 旧博文 格式和 图片逐步修复中，预计持续 2 个月时间
 ### 最新分享
  
 <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Ffeeds.pinboard.in%2Frss%2Fsecret%3Ab2a0f02dce1b20f646fd%2Fu%3Aleoshcn%2F&num=5&utf=y"  charset="UTF-8" type="text/javascript"></script>

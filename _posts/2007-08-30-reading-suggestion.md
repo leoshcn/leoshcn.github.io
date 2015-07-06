@@ -2,7 +2,7 @@
 layout: post
 title: 过阅读的生活
 date: 2007-08-30 21:53 +0800
-tag: reading view
+tags: reading view
 ---
 不知道为什么，最近感觉时间飞逝，一周一周似乎在瞬间就过去，Blog快长出草来了，整个8月片语未留，实在没有什么像样的理由来为自己开脱，就是懒散吧。
 

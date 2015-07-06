@@ -2,7 +2,7 @@
 layout: post
 title: 为人父母？别开玩笑了
 date: 2007-06-03 21:05 +0800
-tag: love grwoth parents reading
+tags: love grwoth parents reading
 ---
 最近在看[《少有人走的路》](http://www.douban.com/subject/1775691/)，在这本畅销25年的书里，格外喜欢"爱"这一章、独到作者引用纪伯伦的一首诗，感触颇深，不敢独享。
 
