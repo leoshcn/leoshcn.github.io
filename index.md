@@ -7,8 +7,8 @@ permalink: /
 欢迎访问云叔的扯淡空间   
 云叔：81年生人，艺名 Leo，双子座，O型血，HBDI 测试 CA 型。  
 
-现居上海浦东，半途而废建筑师，心不在焉产品经理；  
-濒临放弃自己，一辈子做死胖子的中年人。  
+现居上海浦东，半途而废建筑师，现在关注建筑领域信息化、BIM 和 互联网产品  
+濒临放弃自己、下半辈子做一个死胖子的中年人
 爱好踢踢球，看看书，写写字，拍拍照。
 
 常逛 [知乎](http://www.zhihu.com) 这是我在知乎的 [个人页面](http://www.zhihu.com/people/leoshcn)
@@ -17,7 +17,7 @@ permalink: /
 
 ### News
 
-<!-- start feedwind code --><script type="text/javascript">document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');</script><script type="text/javascript">(function() {var params = {rssmikle_url: "http://lixyun.tumblr.com/",rssmikle_frame_width: "500",rssmikle_frame_height: "400",frame_height_by_article: "5",rssmikle_target: "_top",rssmikle_font: "Arial, Helvetica, sans-serif",rssmikle_font_size: "12",rssmikle_border: "off",responsive: "off",rssmikle_css_url: "",text_align: "left",text_align2: "left",corner: "off",scrollbar: "off",autoscroll: "off",scrolldirection: "up",scrollstep: "3",mcspeed: "20",sort: "Off",rssmikle_title: "off",rssmikle_title_sentence: "",rssmikle_title_link: "",rssmikle_title_bgcolor: "#0066FF",rssmikle_title_color: "#FFFFFF",rssmikle_title_bgimage: "",rssmikle_item_bgcolor: "#FFFFFF",rssmikle_item_bgimage: "",rssmikle_item_title_length: "55",rssmikle_item_title_color: "#0066FF",rssmikle_item_border_bottom: "off",rssmikle_item_description: "content_only",item_link: "off",rssmikle_item_description_length: "150",rssmikle_item_description_color: "#666666",rssmikle_item_date: "on",rssmikle_timezone: "Asia/Shanghai",datetime_format: "%b %e, %Y %l:%M:%S %p",item_description_style: "text",item_thumbnail: "full",item_thumbnail_selection: "auto",article_num: "15",rssmikle_item_podcast: "off",keyword_inc: "",keyword_exc: ""};feedwind_show_widget_iframe(params);})();</script><div style="font-size:10px; text-align:center; width:500px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a><!--Please display the above link in your web page according to Terms of Service.--></div><!-- end feedwind code -->
+* *2015.7.6* 希望在主页添加一个更容易维护的分享日志的机制
 
 ### 最新分享
  
