@@ -1,16 +1,14 @@
 ---
 layout: post
 title: 过阅读的生活
-date: 2007-08-30 21:53
-author: admin
-comments: true
-categories: [观点, 阅读]
+date: 2007-08-30 21:53 +0800
+tag: reading view
 ---
 不知道为什么，最近感觉时间飞逝，一周一周似乎在瞬间就过去，Blog快长出草来了，整个8月片语未留，实在没有什么像样的理由来为自己开脱，就是懒散吧。
 
 虽然少了记录和写作，但最近的确读了点，看了点，也听了点儿。 独享快乐显然是一件不够厚道的事情。
 
-[!Inconvenient Truth](http://img3.douban.com/mpic/s1656662.jpg)
+![Inconvenient Truth](http://img3.douban.com/mpic/s1656662.jpg)
 
 <a target="_blank" href="http://www.douban.com/subject/1474405/"><strong>An Inconvenient Truth</strong></a> ，这个影片还是我的代课老师Luke推荐的，也是我首先要推荐的，Gore极富技巧的演讲是我听过最出色的，当然，更让人印象深刻的是它的内容：全球变暖的现状和后果远远超出普通人的认识。一个相关的网站 <a href="http://www.20to20.org/">http://www.20to20.org</a> 。这些更坚定了我要买小排量汽车或者混合动力汽车的决心。有人说决定一个人“质量”的因素是看他做事情要看多久以后的未来，那么，决定一个生物种族的呢？  我是坚定的反“大人类主义者”<!--more-->
 
