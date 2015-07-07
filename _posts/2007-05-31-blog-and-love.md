@@ -1,12 +1,10 @@
 ---
 layout: post
 title: 关注
-date: 2007-05-31 23:04
-author: admin
-comments: true
-categories: [blog, 关注, 观点]
+date: 2007-05-31 23:04 +0800
+tags: blog love
 ---
-<img width="360" src="http://photo8.yupoo.com/20070531/230738_1788508030_vmqiyxim.jpg" height="456" />
+
 
 我们每个人都需要被爱的感觉，这正是此类生物可爱的地方。
 
