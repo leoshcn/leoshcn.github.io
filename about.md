@@ -18,7 +18,25 @@ permalink: /about/
 
 ### 简历
 
-|head1 head1 head1|head2 head2 head2|head3 head3 head3|head4 head4 head4|
-|---|:---|:---:|---:|
-|row1text1|row1text3|row1text3|row1text4|
-|row2text1|row2text3|row2text3|row2text4|
+#### 教育
+
+|年份|  |
+|---|:---|
+|1998-2003|同济大学（上海）建筑与城市规划学院，建筑学专业，获建筑学学士学位|
+|1992-1998|河南省实验中学|
+
+#### 工作经验
+
+|年份|  |
+|---|:---|
+|2012-今 | Bentley Systems Inc. 高级产品经理，中国区本地化产品研发团队负责人 |
+|2006-2012 | Autodesk 中国研究院 构件研发组 Revit Architecture 主管 |
+|2003-2006 | 天华建筑设计院，助理主创建筑师 | 
+
+#### 其他职务
+
+|年份|  |
+|---|:---|
+|2012-今 | ECIDI-Bentley 中国工程软件研究中心 副主任 |
+
+
