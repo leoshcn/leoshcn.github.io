@@ -30,7 +30,8 @@ permalink: /about/
 |年份|  |
 |:---|:---|
 |2012-今 | Bentley Systems Inc. 高级产品经理，中国区本地化产品研发团队负责人 |
-|2006-2012 | Autodesk 中国研究院 构件研发组 Revit Architecture 主管 |
+|2009-2012 | Autodesk 中国研究院 Revit Architecture 构件研发组主管 |
+|2006-2009 | Autodesk 中国研究院 Revit Architecture 产品设计师 |
 |2003-2006 | 天华建筑设计院，助理主创建筑师 | 
 
 #### 其他职务
