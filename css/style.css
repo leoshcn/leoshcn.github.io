@@ -8,12 +8,14 @@
 table {
 
   border-collapse:collapse;
+  margin-bottom:15px;
   
 }
 
 table tr {
-	
-	border-bottom:1px solid #444;
+	padding-right: 6px;
+	padding-top: 3px;
+	border-bottom:1px solid #E0E0E0;
 }
 
 .post-main {
