@@ -15,3 +15,10 @@ permalink: /about/
 ### 云叔最新收藏
 
 <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Ffeeds.pinboard.in%2Frss%2Fsecret%3Ab2a0f02dce1b20f646fd%2Fu%3Aleoshcn%2F&num=5&utf=y"  charset="UTF-8" type="text/javascript"></script>
+
+### 简历
+
+|head1 head1 head1|head2 head2 head2|head3 head3 head3|head4 head4 head4|
+|---|:---|:---:|---:|
+|row1text1|row1text3|row1text3|row1text4|
+|row2text1|row2text3|row2text3|row2text4|
