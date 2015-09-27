@@ -36,7 +36,8 @@ permalink: /about/
 |2003-2006 | 天华建筑设计院，助理主创建筑师 | 
 
 #### 培训认证
-|年份|  认证内容 |
+
+|年份|  |
 |:---|:---|
 |2012 | Pragmatic Marketing - Practical Product Management  证书 |
 |2010 | Revit Architecture Professional |
