@@ -6,7 +6,7 @@ author: admin
 comments: true
 categories: [life, 思考, 生活, 观点]
 ---
-<img width="328" src="http://photo6.yupoo.com/20070606/233536_2036423221_xrkbczdp.jpg" height="487" />
+![life's too short for the wrong job](http://leoblog.u.qiniudn.com/legacy/lifestooshortforthewrongjob.jpg)
 
 你不觉得吗？生活给我们的待遇和购物消费如此的相似。
 

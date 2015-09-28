@@ -8,7 +8,7 @@ categories: [观点]
 ---
 柏林奥林匹克体育场的地铁出口，相信大多数的球迷需要经过这里到达球场。
 
- ![entrance of the arena] (https://farm1.staticflickr.com/23/183316441_9737556142_z.jpg)
+ ![entrance of the arena](https://farm1.staticflickr.com/23/183316441_9737556142_z.jpg)
 
 
 从地铁站通向体育场的必经之路。（拍这张照片的时候正是2005年的春节）
