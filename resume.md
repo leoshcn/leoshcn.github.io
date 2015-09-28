@@ -29,9 +29,10 @@ permalink: /resume/
 |2010 | Revit Architecture Professional |
 
 #### 出版
+
 |年份|  |
 |:---|:---|
-|2011 | Bentley的BIM视角 - BIM与工程建设信息化——第三届工程建设计算机应用创新论坛报告集 |
+|2011 | Bentley的BIM视角 - BIM与工程建设信息化  第三届工程建设计算机应用创新论坛报告集 |
 
 
 #### 其他职务
