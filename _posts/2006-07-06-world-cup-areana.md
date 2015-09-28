@@ -7,12 +7,19 @@ comments: true
 categories: [观点]
 ---
 柏林奥林匹克体育场的地铁出口，相信大多数的球迷需要经过这里到达球场。
-<a href="http://www.flickr.com/photos/leoshcn/183316441/" title="Photo Sharing"><img src="http://static.flickr.com/23/183316441_eb15545ff8_m.jpg" width="240" height="180" alt="Subway station" /></a>
+
+ ![entrance of the arena] (https://farm1.staticflickr.com/23/183316441_9737556142_z.jpg)
+
+
 从地铁站通向体育场的必经之路。（拍这张照片的时候正是2005年的春节）
-<a href="http://www.flickr.com/photos/leoshcn/183316557/" title="Photo Sharing"><img src="http://static.flickr.com/53/183316557_9cc893cde7_m.jpg" width="240" height="180" alt="route to the stadium" /></a>
+
+![path from railway station to arena](https://farm1.staticflickr.com/53/183316557_f91aece865_z.jpg)
+
 <!--more-->
 终于，到了门口。雄壮的建筑物总是给人心灵的震撼。
-<a href="http://www.flickr.com/photos/leoshcn/183316692/" title="Photo Sharing"><img src="http://static.flickr.com/76/183316692_f84d5c55cb_m.jpg" width="240" height="180" alt="Gate" /></a>
+
+![gate](https://farm1.staticflickr.com/76/183316692_32fc1ebde6_z.jpg)
+
 进去了，看到了柏林市的观光欢迎小熊。
 <a href="http://www.flickr.com/photos/leoshcn/183316827/" title="Photo Sharing"><img src="http://static.flickr.com/47/183316827_3e71088731_m.jpg" width="240" height="180" alt="Bear welcome" /></a>
 穹窿
