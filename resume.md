@@ -28,6 +28,11 @@ permalink: /resume/
 |2012 | Pragmatic Marketing - Practical Product Management  证书 |
 |2010 | Revit Architecture Professional |
 
+#### 出版
+|年份|  |
+|:---|:---|
+|2011 | Bentley的BIM视角 - BIM与工程建设信息化——第三届工程建设计算机应用创新论坛报告集 |
+
 
 #### 其他职务
 
@@ -35,4 +40,7 @@ permalink: /resume/
 |:---|:---|
 |2012-今 | ECIDI-Bentley 中国工程软件研究中心 副主任 |
 |2002-2003| 同济大学 青年建筑师协会 会长 |
+|2008 - 2011 | revitcad.com 创始人 |
 
+#### 名片二维码
+![QRcode](http://78rdoo.com1.z0.glb.clouddn.com/QR-LiXiang.png)
