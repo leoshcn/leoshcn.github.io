@@ -15,10 +15,10 @@ permalink: /resume/
 
 |年份|  |
 |:---|:---|
-|2012-今 | Bentley Systems Inc. 高级产品经理，中国产品研发中心总监 |
-|2011-2012 | RIB AG. iTWO 高级顾问 |
-|2009-2011 | Autodesk 中国研究院 Revit Architecture 构件研发组主管 |
-|2006-2010 | Autodesk 中国研究院 Revit Architecture 产品设计师 |
+|2011-今 | Bentley Systems Inc. 高级产品经理，中国产品研发中心总监 |
+|2010-2011 | RIB AG. iTWO 高级顾问 |
+|2008-2010 | Autodesk 中国研究院 Revit Architecture 构件研发组主管 |
+|2006-2008 | Autodesk 中国研究院 Revit Architecture 产品设计师 |
 |2003-2006 | 天华建筑设计（上海）有限公司，助理主创建筑师 | 
 
 #### 培训认证
