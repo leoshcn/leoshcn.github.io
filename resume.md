@@ -8,7 +8,7 @@ permalink: /resume/
 
 |年份|  |
 |:---|:---|
-|1998-2003|同济大学（上海）建筑与城市规划学院，建筑学专业，建筑学学士学位|
+|1998-2003|同济大学（上海）建筑与城市规划学院，建筑学学士学位|
 |1992-1998|河南省实验中学|
 
 #### 工作经验
@@ -25,8 +25,8 @@ permalink: /resume/
 
 |年份|  |
 |:---|:---|
-|2012 | Pragmatic Marketing - Practical Product Management  证书 |
-|2010 | Revit Architecture Professional |
+|2012 | Pragmatic Marketing - Practical Product Management |
+|2010 | Autodesk Revit Architecture Professional |
 
 #### 出版
 
