@@ -1,3 +1,0 @@
-1. 按照格式撰写文章
-2. 打开github 应用，上传文章
-3. 在 leoshcn.github.io 查看
