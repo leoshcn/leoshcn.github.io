@@ -80,15 +80,16 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: normal;
-    font-family: "Roboto",Hiragino Sans GB,宋体;
+
+	font-family:"sourcehansans-sc",Hiragino Sans GB,宋体 !important;
+	font-weight:normal !important;
 }
 
 
 
 h3 {
-	font-size: 14px !important;
-	font-weight: 600;
+	font-size: 18px !important;
+	font-weight: 350;
 	color: #e51d5f;
 
 }
