@@ -9,8 +9,8 @@ permalink: /about/
 ### 博客大事记
 
 * *2015.7.4* 对博客模版进行了设计，基本有了雏形
-* *2014.12.31*  在14年最后一天将Blog迁移至 Jekyll 平台，使用 Github pages 托管
-* *2006.7.7* 第一篇博客，使用wordpress 发布
+* *2014.12.31*  在14年最后一天将 Blog 迁移至 Jekyll 平台，使用 Github pages 托管
+* *2006.7.7* 第一篇博客，使用 wordpress 发布
 
 ### 云叔最新收藏
 
