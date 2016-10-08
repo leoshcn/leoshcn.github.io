@@ -1,10 +1,9 @@
 ---
 layout: post
-title: apple=风格化？
+title: "apple=风格化？"
 date: 2006-05-21 00:28
 author: admin
 tag: design
-categories: []
 ---
 ![](http://leoblog.u.qiniudn.com/16-10-8/33441714.jpg)
 
