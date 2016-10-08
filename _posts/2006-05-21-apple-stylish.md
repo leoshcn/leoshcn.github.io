@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: apple=风格化？
@@ -8,7 +6,7 @@ author: admin
 comments: true
 categories: []
 ---
-![](http://static.flickr.com/55/149850685_2723d59c6c_o.jpg)
+![](http://leoblog.u.qiniudn.com/16-10-8/33441714.jpg)
 
 这个在第五大街上的 apple store 给了我们无尽的想象空间。而且是 24X365 on，为啥一个简单的点式玻璃幕墙和 Apple 能擦出如此风格化的视觉效果，也许这个地段本身就附满了时尚和流行。 
 
