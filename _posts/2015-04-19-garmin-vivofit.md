@@ -3,6 +3,7 @@ layout: post
 title: "Garmin Vivofit2"
 date: 2015-04-19 21:30:00 +0800
 category: Life
+tags: health, digital
 ---
 
 今天在京东入了一个手环，之前的fitbit flex 已经无法充电，而且每次充电都会是一次懒惰无法继续的风险。
