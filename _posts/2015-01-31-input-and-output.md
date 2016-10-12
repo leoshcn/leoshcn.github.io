@@ -2,6 +2,7 @@
 layout: post
 title: "输出的匮乏"
 date: 2015-01-31 22:00:00 +0800
+tag: life
 category: Life
 ---
 
