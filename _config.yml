@@ -1,21 +1,63 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: 云叔扯淡
-email: i@lixyun.com
-description: > # this means to ignore newlines until "baseurl:"
- This is a blog site for a helpless mid-age Chinese DASHU. All posts are not supposed to be shared and read by anyone except himself. Anyway, have fun!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.lixyun.com" # the base hostname & protocol for your site
+permalink: /:year/:month/:title.html
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.lixyun.com" 
 twitter_username: leoshcn
-timezone: Hongkong
-permalink: /blog/:year/:title.html
+github_username:  leoshcn
 
 # Build settings
 markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
-#External service
-github_url: "https://github.com/leoshcn"
-twitter_url: "https://twitter.com/leoshcn"
-linkedin_url: "https://linkedin.com/in/leoshcn"
-feed_url: "http://www.lixyun.com/feed.xml"
-flickr_url: "https://www.flickr.com/photos/leoshcn"
 
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: https://www.instagram.com/leoshcn/
+  - title: Subscribe
+    class: fa fa-rss
+    href: /feed.xml
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
