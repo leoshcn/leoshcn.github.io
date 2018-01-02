@@ -2,9 +2,7 @@
 layout: post
 title: 变吧
 date: 2007-11-02 19:27
-author: admin
-comments: true
-categories: [autodesk, 观点]
+tags: autodesk change
 ---
 昨天公司为了<a target="_blank" href="http://it.sohu.com/20071101/n252994145.shtml">这事</a>很是热闹了一下，大家的好奇心也被小小激发。
 
